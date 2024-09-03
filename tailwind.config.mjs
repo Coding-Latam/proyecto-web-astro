@@ -11,6 +11,7 @@ export default {
         white: "#ffffff",
         "light-gray": "#f0f8fe",
         gray: "#fefefe",
+        "footer-p": "#CACACA",
       },
     },
   },
